@@ -1,5 +1,8 @@
-x = input('Enter value of x: ')
-y = input('Enter value of y: ')
+
+
+
+x = 333
+y = 111
 
 temp = x
 x = y
