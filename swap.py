@@ -1,7 +1,7 @@
 x = 333
 y = 111
-print('The value os x before swaping: {}'.format(x))
-print('The value os y before swaping: {}'.format(y))
+print('The value of x before swaping: {}'.format(x))
+print('The value of y before swaping: {}'.format(y))
 
 
 temp = x
